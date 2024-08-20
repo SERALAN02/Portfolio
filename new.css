@@ -1,0 +1,48 @@
+@keyframes bounceIn {
+    0% {
+        opacity: 0;
+        transform: scale(0.3) translate3d(0,0,0);
+    }
+    50% {
+        opacity: 0.9;
+        transform: scale(1.1);
+    }
+    80% {
+        opacity: 1;
+        transform: scale(0.89);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1) translate3d(0,0,0);
+    }
+}
+
+@media(max-width:400px){
+    #Compétences{
+        width: 100%;
+    }
+
+    #ic{
+        
+        
+    }
+
+
+}
+
+@media(max-width:1200px){
+    #Compétences{
+        width: 100%;
+    }
+
+   
+}
+
+
+
+/*                      new slide try                       */
+
+
+
+
+  
